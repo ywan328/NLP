@@ -1,1 +1,1 @@
-output od greedy search & beam search
+output of greedy search & beam search
