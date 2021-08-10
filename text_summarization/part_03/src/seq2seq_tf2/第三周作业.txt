@@ -1,0 +1,5 @@
+Homework-week3
+1. 参考模型和训练代码，继续完成week2的作业，保证可以训练seq2seq模型
+2. 补全predict_helper.py中函数batch_greedy_decode的greedy search代码
+3. 补全predict_helper.py中函数beam_decode中的代码
+4. 通过调整predict.py中的参数，使用gready search和beam search做预测
